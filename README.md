@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=orion-miller&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=orion-miller&theme=blue-green)
 
 <!--
 **orion-miller/orion-miller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
